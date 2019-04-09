@@ -2,9 +2,9 @@ hyde.py is a toy steganography library.
 
 commands:
 
-encode [FILEPATH] [MESSAGE]
+-e [FILEPATH] [MESSAGE]
 
-decode [FILEPATH]
+-d [FILEPATH]
 
 compiling the program goes as follows:
 
