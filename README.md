@@ -11,6 +11,8 @@ compiling the program goes as follows:
 python3 hyde.py [command] (arguments)
 
 
-you'll need PIL in order to install this in order to get Pillow to run this.
+you'll need the Pillow image library to run this.
+
+to install it type this in a terminal:
 
 pip3 install Pillow
